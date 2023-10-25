@@ -78,4 +78,5 @@ customer                     | customer_id
 address                      | address_id
 city                         | city_id
 country                      | country_id
+film_text                    | film_id
 ```
